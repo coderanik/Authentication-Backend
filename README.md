@@ -1,6 +1,6 @@
 # MERN Authentication Server
 
-This is the backend server for a MERN stack authentication project. It provides APIs for user registration, login, and authentication.
+This is the backend server for a MERN stack authentication system, offering secure APIs for user registration, login, and authentication. Built with Node.js, Express, and MongoDB, it ensures robust user management with JWT-based authentication and password hashing for enhanced security.
 
 ## Features
 
@@ -8,6 +8,7 @@ This is the backend server for a MERN stack authentication project. It provides 
 - User login
 - Token-based authentication
 - Password hashing
+- User logout
 
 ## Technologies Used
 
@@ -29,11 +30,10 @@ This is the backend server for a MERN stack authentication project. It provides 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/mern-auth.git
-    ```
+    git clone https://github.com/yourusername/Authentication-Backend.git
 2. Navigate to the server directory:
     ```bash
-    cd mern-auth/server
+    cd Authentication-Backend
     ```
 3. Install dependencies:
     ```bash
